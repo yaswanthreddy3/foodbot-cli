@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Environment and secrets
+.env
+.env.*
+*.local
+tokens.json
+.mcp-auth/
+*.pem
+*.key
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
