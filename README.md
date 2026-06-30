@@ -1,6 +1,6 @@
 # 🍕 FoodBot CLI
 
-A terminal-based AI food ordering assistant that talks to **Swiggy** and **Zomato** through their MCP (Model Context Protocol) servers, powered by a **100% local LLM** via Ollama. Search restaurants, compare prices across platforms, browse menus, manage carts, track orders, and book tables — all from natural language, all running locally.
+A terminal-based AI food ordering assistant that talks to **Swiggy** and **Zomato** through their MCP (Model Context Protocol) servers, powered by a **100% local LLM** via Ollama. Search restaurants, compare prices across platforms, browse menus, manage carts, track orders, and book tables - all from natural language, all running locally.
 
 ```
 ❯ compare biryani on swiggy and zomato
